@@ -1,0 +1,30 @@
+[
+  {
+    "unit": "mm",
+    "value": 0.001
+  },
+  {
+    "unit": "cm",
+    "value": 0.01
+  },
+  {
+    "unit": "m",
+    "value": 1.0
+  },
+  {
+    "unit": "in",
+    "value": 0.0254
+  },
+  {
+    "unit": "ft",
+    "value": 0.3048
+  },
+  {
+    "unit": "yd",
+    "value": 0.9144
+  },
+  {
+    "unit": "km",
+    "value": 1000.0
+  }
+]
